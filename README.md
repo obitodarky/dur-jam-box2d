@@ -1,16 +1,10 @@
-# durjam_box2d
+# Flutter and Box2D
 
-A new Flutter application.
+Source Code for my session, Flutter and Box2D at [DurJam](https://durj.am/)
 
-## Getting Started
+## Important Links
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Slides for the session](https://docs.google.com/presentation/d/1WWrGfFP9EozGNGqBvQI9sfZd8gBQH8ZZxMxNEJIAu8Y/edit?usp=sharing) 
+- [iforce2d's Box2D Tutorial](http://www.iforce2d.net/b2dtut/)
+- [Wolfenra's Box2D Series with Flutter](https://wolfenra.in/series/dart-box2d-fundamentals/)
+- [Daniel Shiffman's Box2D playlist on YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy4FyZtCHsZc_K0BrXzxfE)
